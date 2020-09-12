@@ -1,0 +1,3 @@
+This repository contains details on how you can analyze time series data by combining it into different intervals using Pandas. The sample dataset used here is the time-series data provided by <a href="https://data.worldbank.org/"> World Bank Open data </a> and is related to the crowd-sourced price data collected from 15 countries. For more details about the data, refer <a href="https://datacatalog.worldbank.org/dataset/crowdsourced-price-data-collection-pilot"> Crowdsourced Price Data Collection Pilot </a>. For this exercise, we used data collected for Argentina.
+
+To better view notebook, you can use <a href="https://nbviewer.jupyter.org">Jupyter NBViewer</a>. Also, you can checkout the following Google Colab.
